@@ -19,7 +19,7 @@ msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
 msgstr ""
-"Страница коју тражите не постоји, или је уклоњена. Молимо"
+"Страница коју тражите не постоји, или је уклоњена. Молимо "
 "користите меније или претрагу да нађете оно што желите."
 
 #: ../comments.php:7
@@ -52,7 +52,7 @@ msgstr "Покреће"
 
 #: ../footer.php:73
 msgid "Theme by"
-msgstr "Шаблон од"
+msgstr "Аутор теме"
 
 #: ../search.php:10
 msgid "For the term"
@@ -64,7 +64,7 @@ msgstr "Молимо покушајте другу претрагу:"
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr "За претрагу кликните enter"
+msgstr "За претрагу куцајте и притисните enter"
 
 #: ../sidebar-2.php:5 ../sidebar.php:9
 msgid "Expand Sidebar"
@@ -76,7 +76,7 @@ msgstr "Више"
 
 #: ../sidebar.php:14
 msgid "Follow:"
-msgstr "Следи:"
+msgstr "Пратите нас:"
 
 #: ../single.php:14
 msgid "by"
@@ -152,4 +152,4 @@ msgstr "Предходна прича"
 
 #: ../inc/related-posts.php:6
 msgid "You may also like..."
-msgstr "Такође можете да..."
+msgstr "Можда Вам се свиди и ..."
